@@ -1,1 +1,1 @@
-# sample-maven-zip-archive
+# maven-zip-archive
